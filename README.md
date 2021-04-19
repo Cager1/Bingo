@@ -1,2 +1,2 @@
 # Bingo
-Web app for bigno
+Web app for bingo
